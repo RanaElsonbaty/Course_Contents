@@ -31,7 +31,7 @@ class SplashScreen extends StatelessWidget {
 
                   border: Border.all(color: Colors.white)
               ),
-              child: const Text('Courses content',
+              child: const Text('Course contents',
                 style: TextStyle (
                     color: Colors.white ,
                     fontSize: 22 ,
